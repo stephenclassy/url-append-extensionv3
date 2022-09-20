@@ -1,6 +1,6 @@
-# Copy Page URL
+# Learn URL Appender
 
-A Google Chrome extension that allows you to copy page URL from the context menu or on click on the extension icon.
+A Google Chrome extension that allows you to copy a Microsoft Learn page URL from the context menu or on click on the extension icon, and automatically add your desired tracking parameter for sharing with others.
 
 ## Permissions
 
