@@ -15,7 +15,3 @@ The extension does not include and/or use any third party code and/or services.
 ## Updates
 
 This Privacy Policy may be updated in the future, in this case the updated version of this Privacy Policy will be published on this page and will be effective immediately after publication.
-
-## Contact Information
-
-If you have any questions regarding this Privacy Policy or about how the extension handles your data please do not hesitate to contact the developer of the extension.
