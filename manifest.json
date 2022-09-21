@@ -14,7 +14,7 @@
       "128": "icon/learnAppenderIcon128.png"
    },
    "manifest_version": 2,
-   "name": "Learn URL Appender",
+   "name": "Microsoft Learn URL Appender",
    "options_ui": {
       "chrome_style": true,
       "page": "options.html"
