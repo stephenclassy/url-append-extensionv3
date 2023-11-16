@@ -14,7 +14,7 @@ function copy(text) {
   }
   //Change for value you want appended.
   //Update to take input(s).
-  elem.value += '?wt.mc_id=CatalogApi';
+  elem.value += '/_ui/common/apex/debug/ApexCSIPage';
   elem.select();
   document.execCommand('Copy', false, null);
 }
