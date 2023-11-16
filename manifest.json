@@ -18,7 +18,7 @@
       "chrome_style": true,
       "page": "options.html"
    },
-   "permissions": [ "activeTab", "clipboardWrite", "contextMenus", "storage", "*://*.docs.microsoft.com/*" , "*://*.learn.microsoft.com/*"],
+   "permissions": [ "activeTab", "clipboardWrite", "contextMenus", "storage", "*://*.lightning.force.com/*"],
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "0.1"
 }
